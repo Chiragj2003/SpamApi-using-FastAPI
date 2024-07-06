@@ -41,5 +41,5 @@ This project provides a REST API to be consumed by a mobile app, similar to popu
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/spam_api.git
+   git clone https://github.com/Chiragj2003/SpamApi-using-FastAPI.git
    cd spam_api
